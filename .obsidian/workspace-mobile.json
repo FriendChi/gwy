@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bc949523aa57b450",
+        "id": "652e2e5c37e3d618",
         "type": "tabs",
         "children": [
           {
-            "id": "3ead34dfc25ea84e",
+            "id": "4655643f7c201a0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "呼吸识别实验.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 47.59398791950953,
+                  "y": 92.76742740661821,
+                  "zoom": 0.15472181075854635
+                }
               },
-              "icon": "lucide-file",
-              "title": "呼吸识别实验"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ]
@@ -100,7 +103,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "9b7320679ff25286",
@@ -112,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "呼吸识别实验.md",
+            "file": "未命名.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +134,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "呼吸识别实验.md",
+            "file": "未命名.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +148,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "呼吸识别实验.md",
+            "file": "未命名.canvas",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -179,9 +182,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ead34dfc25ea84e",
+  "active": "4655643f7c201a0e",
   "lastOpenFiles": [
+    "图形题流程表.md",
+    "2026-06-07.md",
+    "言语理解技巧.md",
+    "未命名.canvas",
+    "未命名 2.base",
     "呼吸识别实验.md",
+    "未命名 1.base",
+    "否定论据技巧.md",
     "未命名.base"
   ]
 }

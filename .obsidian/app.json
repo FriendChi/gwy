@@ -19,6 +19,7 @@
     "editor:unindent-list",
     "editor:configure-toolbar",
     "editor:clear-formatting",
-    "editor:toggle-fold"
+    "editor:toggle-fold",
+    "editor:insert-codeblock"
   ]
 }
